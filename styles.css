@@ -1,0 +1,19 @@
+body {
+	background-image: url('/resources/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+	cursor:url('/resources/cursor.png'), default;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	font-size: 72px;
+	color: #FF04F4;
+}
+
+.row {
+	padding-bottom: 10px;
+}
